@@ -1,7 +1,6 @@
-## Mesh Take Home — Reconciliation & Categorization
+## Mesh — Reconciliation & Categorization
 
-### What the result looks like
-See `Mesh Categorization.pdf` in the repository root. It illustrates the expected categorization output and how transactions map to Chart of Accounts (COA) entries. Use it as a visual reference for what the final result should resemble.
+ `Mesh Categorization.pdf` in the repository root is a visual reference for the final result :)
 
 ### Overview
 - **Step 1 — Reconciliation (`backend/reconciliation.py`)**
