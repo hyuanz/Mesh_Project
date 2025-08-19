@@ -1,0 +1,149 @@
+Account Name,Type,Description
+Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services
+Accounts receivable (A/R),Accounts receivable (A/R),Money customers owe for products and services
+Checking Account - 1234,Bank,"Cash the business keeps on hand, like petty cash"
+Cost of goods sold,Cost of Goods Sold,The costs to your business to make products or services
+Cost of goods sold:Cost of labor - COGS,Cost of Goods Sold,Costs of outside labor to make a product
+Cost of goods sold:Equipment rental - COGS,Cost of Goods Sold,Costs of equipment rental to make a product
+Cost of goods sold:Freight in - COGS,Cost of Goods Sold,Cost of freight and delivery for goods sold or used to make a product
+Cost of goods sold:Supplies & materials - COGS,Cost of Goods Sold,Costs of parts and supplies to make a product
+Additional paid in capital,Equity,Cash contributed to the company by a shareholder in excess of stock purchase price
+Common stock,Equity,Money received in exchange for common stock
+Dividends paid,Equity,Money given to shareholders based on shares that they own
+Opening balance equity,Equity,"Opening balances of bank accounts, assets, and liabilities"
+Preferred stock,Equity,The total value of all the shares of preferred stock for the business
+Retained Earnings,Equity,
+Treasury stock,Equity,Money paid to buy back stock from a shareholder
+Advertising & marketing,Expenses,Costs to promote products and services
+Advertising & marketing:Listing fees,Expenses,Costs to list products and services on third-party websites
+Advertising & marketing:Social media,Expenses,Costs to promote the business on social media
+Advertising & marketing:Website ads,Expenses,Costs to promote the business on websites
+Bad Debt,Expenses,Costs to your business from unpaid customer debt
+Business licenses,Expenses,Costs of business licenses and permits that are considered expenses
+Commissions & fees,Expenses,"Commissions paid to salespeople, or fees paid to other businesses for services"
+Contract labor,Expenses,Payments made to contractors or subcontractors
+Contributions to charities,Expenses,Money the business donates to a charity
+Employee benefits,Expenses,Costs of employee benefit programs
+Employee benefits:Employee retirement plans,Expenses,Costs of employee retirement plans
+Employee benefits:Group term life insurance,Expenses,Costs of group term life insurance coverage
+Employee benefits:Health insurance & accident plans,Expenses,Costs of employee health care and accident plans
+Employee benefits:Officers' life insurance,Expenses,Costs of officers' life insurance policies
+Employee benefits:Workers' compensation insurance,Expenses,Costs of worker's compensation insurance coverage
+Entertainment,Expenses,"Costs of entertainment, like movies or sporting events"
+General business expenses,Expenses,Other money your business spends to run the business
+General business expenses:Bank fees & service charges,Expenses,Costs of having a business bank account
+General business expenses:Continuing education,Expenses,Costs of education related to your industry
+General business expenses:Memberships & subscriptions,Expenses,Costs of memberships and subscriptions related to your industry
+General business expenses:Uniforms,Expenses,Costs of uniforms for the workers in your business
+Insurance,Expenses,Money your business spends on insurance other than health plans
+Insurance:Business insurance,Expenses,Costs of premiums for business insurance
+Insurance:Liability insurance,Expenses,Costs of premiums for liability insurance
+Insurance:Property insurance,Expenses,Costs of premiums for property insurance
+Interest paid,Expenses,"Interest paid on loans, credit cards, or mortgages"
+Interest paid:Business loan interest,Expenses,Interest paid on a business loan
+Interest paid:Credit card interest,Expenses,Interest paid on a business credit card balance
+Interest paid:Mortgage interest,Expenses,Interest paid on a property mortgage
+Legal & accounting services,Expenses,The costs of accountants and attorneys to help run your business
+Legal & accounting services:Accounting fees,Expenses,"Costs of accountants, tax advice, and tax forms"
+Legal & accounting services:Legal Fees,Expenses,Costs of attorneys to help run your business
+Meals,Expenses,Costs of meals for workers
+Meals:Meals with clients,Expenses,Costs of meals with customers and clients
+Meals:Travel meals,Expenses,Costs of meals during business trips
+Office expenses,Expenses,"Costs of supplies for the office, like pens and cleaning products"
+Office expenses:Merchant account fees,Expenses,Costs to process transactions and have a merchant account
+Office expenses:Office supplies,Expenses,Costs of supplies for the office
+Office expenses:Printing & photocopying,Expenses,Costs of printing paper and ink
+Office expenses:Shipping & postage,Expenses,"Costs of stamps, postage, and shipping supplies"
+Office expenses:Small tools & equipment,Expenses,Costs of small tools and equipment for the business
+Office expenses:Software & apps,Expenses,Costs of software and apps for the business
+Payroll expenses,Expenses,Costs of employee pay
+Payroll expenses:Officers' salaries,Expenses,Cost of officers' pay
+Payroll expenses:Salaries & wages,Expenses,Cost of employee pay
+Rent,Expenses,"Rent paid for buildings, offices, land, or equipment"
+Rent:Building & land rent,Expenses,"Rent paid for a building, office, or land"
+Rent:Equipment rental,Expenses,"Costs of renting cars, machinery, or equipment for the business to use"
+Repairs & maintenance,Expenses,Costs of repairs and maintenance for the business other than from vehicles
+Supplies,Expenses,Costs of supplies to run the organization other than office supplies
+Supplies:Supplies & materials,Expenses,"Costs of supplies and materials other than office supplies, like coffee and first aid kits"
+Taxes paid,Expenses,"Costs of payroll, property, and other taxes"
+Taxes paid:Payroll taxes,Expenses,Cost of employer portion of payroll taxes
+Taxes paid:Property taxes,Expenses,Costs of property taxes for the business
+Travel,Expenses,Costs of business-related travel
+Travel:Airfare,Expenses,Costs of airfare
+Travel:Hotels,Expenses,Costs of hotel and lodging
+Travel:Taxis or shared rides,Expenses,Costs of using a ride-share service or taxi for business reasons
+Travel:Vehicle rental,Expenses,Costs of renting vehicles for business trips
+Uncategorized Expense,Expenses,
+Utilities,Expenses,Costs of utilities used to operate the business
+Utilities:Disposal & waste fees,Expenses,Costs to dispose of waste
+Utilities:Electricity,Expenses,Costs of electricity service
+Utilities:Heating & cooling,Expenses,Costs of heating and cooling services
+Utilities:Internet & TV services,Expenses,Costs of internet and television service
+Utilities:Phone service,Expenses,Costs of phone service
+Utilities:Water & sewer,Expenses,Costs of water and sewer service
+Accumulated amortization,Fixed Assets,The total of intangible asset amounts previously reported as expenses
+Accumulated depreciation,Fixed Assets,The total cost of assets previously reported as expenses
+Buildings,Fixed Assets,Buildings the business owns
+Furniture & fixtures,Fixed Assets,Furniture owned by the business
+Improvements,Fixed Assets,Payments for labor and materials used to improve property you own or lease
+Land,Fixed Assets,Land the business owns
+Long-term office equipment,Fixed Assets,Equipment the business uses for longer than a year
+"Tools, machinery, and equipment",Fixed Assets,Equipment that's used for longer than a year for work outside of the office
+Vehicles,Fixed Assets,Vehicles the business owns
+Billable Expense Income,Income,
+Discounts given,Income,Money given to a customer as a refund or a discount
+Sales,Income,
+Sales of Product Income,Income,Money your business earns from products it sells
+Uncategorized Income,Income,
+Long-term business loans,Long Term Liabilities,"Loans the business will owe for longer than a year, like vehicle loans"
+Long-term loans from shareholders,Long Term Liabilities,Loans from a shareholder that will be owed for longer than a year
+Mortgages,Long Term Liabilities,Mortgages owed for buildings or land
+Deferred income taxes,Other Assets,Income taxes paid in advance
+Goodwill,Other Assets,"The excess in purchase price over the value of a business, like for intellectual property or a brand"
+Lease buyout,Other Assets,Cost value of a lease buyout
+Licenses held,Other Assets,"Costs of licenses of value that are considered assets, like liquor or lottery licenses"
+Long-term investments,Other Assets,Investments held for more than one year
+Long-term loans to related parties,Other Assets,Loans given to another company you own that will be owed for longer than a year
+"Patents, copyrights, & franchises",Other Assets,"Assets that aren't physical, like trademarks, franchises, and other intangible assets"
+Security deposits,Other Assets,Deposits from customers that the business returns when services are complete
+Startup & organizational costs,Other Assets,Legal costs incurred when forming or reorganzing a company
+Allowance for bad debts,Other Current Assets,An estimate of money owed by customers that might not get paid
+Employee cash advances,Other Current Assets,Payments made to employees that will be repaid to the company
+Inventory Asset,Other Current Assets,Products on hand to sell to customers
+Loans to officers,Other Current Assets,Money loaned to officers expected to be repaid within a year
+Loans to others,Other Current Assets,Short-term loans provided to an employee or others
+Loans to shareholders,Other Current Assets,Money loaned to shareholders expected to be repaid within a year
+Payments to deposit,Other Current Assets,Cash or checks your business is ready to deposit at the bank
+Prepaid expenses,Other Current Assets,Payments made in advance for products and services
+Real estate loans to others,Other Current Assets,Loans given to others for real estate purchases to be paid back within a year
+Tax exempt investments,Other Current Assets,"Investments in tax-exempt securities, like local and municipal bonds"
+Uncategorized Asset,Other Current Assets,
+U.S. savings bonds and investments,Other Current Assets,"Investments in U.S. government bonds, treasury notes, and other securities"
+Customer prepayments,Other Current Liabilities,Down payments from customers for future goods and services
+Lines of credit,Other Current Liabilities,A credit line the business spends and repays on later
+Payroll wages and tax to pay,Other Current Liabilities,"Money owed to payroll tax agencies, employees for wages, or others for payroll liabilities"
+Payroll wages and tax to pay:Payroll tax to pay,Other Current Liabilities,Money owed to payroll tax agencies to be paid within a year
+Payroll wages and tax to pay:Retirement benefits to pay,Other Current Liabilities,Money owed for retirement benefits like a 401(k) to be paid within a year
+Payroll wages and tax to pay:Wages to pay,Other Current Liabilities,Wages owed to employees to be paid within a year
+Sales tax to pay,Other Current Liabilities,Sales tax the business collects and owes
+Short-term business loans,Other Current Liabilities,Loans the business will owe for less than a year
+Short-term loans from shareholders,Other Current Liabilities,Loans from shareholders to be paid within a year
+Amortization expenses,Other Expense,Current period cost of amortizable assets
+Depreciation,Other Expense,Costs your business deducts for large purchases over the course of their use
+Penalties & settlements,Other Expense,Costs of settlements and fines other than vehicle fines
+Reconciliation Discrepancies,Other Expense,
+Vehicle expenses,Other Expense,Costs for the use of vehicles
+Vehicle expenses:Parking & tolls,Other Expense,Costs of road tolls and parking
+Vehicle expenses:Vehicle fines & penalties,Other Expense,"Costs of vehicle fines or penalties, like traffic tickets"
+Vehicle expenses:Vehicle gas & fuel,Other Expense,Costs to fuel vehicles
+Vehicle expenses:Vehicle insurance,Other Expense,Costs to insure vehicles
+Vehicle expenses:Vehicle registration,Other Expense,Costs to register vehicles with a local authority
+Vehicle expenses:Vehicle repairs,Other Expense,Costs to repair vehicles
+Vehicle expenses:Vehicle wash & road services,Other Expense,Costs to clean vehicles or get help on the road
+Credit card rewards,Other Income,Money earned from a credit card rewards program
+Dividends received,Other Income,Dividends received from investments in other companies
+Insurance claims,Other Income,Money received from an insurance claim
+Interest earned,Other Income,"Money earned from interest, like from a savings account"
+Sale of an asset,Other Income,Money earned from the sale of an asset
+Sale of investments,Other Income,Money earned from the sale of investments
+Tax exempt investment interest,Other Income,"Money earned from interest from a tax-exempt sources, like government bonds"

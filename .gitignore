@@ -1,0 +1,60 @@
+# ----- General OS files -----
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ ehthumbs.db
+
+# ----- Environment files -----
+.env
+.env.*
+!.env.example
+
+# ----- Logs & caches -----
+*.log
+logs/
+.cache/
+
+# ----- Python (backend) -----
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.eggs/
+*.egg-info/
+*.egg
+
+# ----- Node / Frontend (Vite + TS) -----
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+build/
+.eslintcache
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ----- IDE/editor -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+
+# ----- Jupyter -----
+.ipynb_checkpoints/
+
+# ----- Project data -----
+# Keep versioned sample/input CSVs in data/ by default.
+# If you generate large local-only files, consider ignoring them explicitly.
+# data/*.local.csv

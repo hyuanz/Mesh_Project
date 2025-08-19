@@ -1,0 +1,17 @@
+Distribution account,Transaction date,Transaction type,Line description,Category/Product/Service amount
+Checking Account - 1234,12/04/2024,Journal Entry,American Airlines TX,"-1,500.00"
+Checking Account - 1234,12/04/2024,Journal Entry,Uber Trip www.uber.com,-78.56
+Checking Account - 1234,12/04/2024,Journal Entry,AplPay Storage GB costs,-150
+Checking Account - 1234,12/04/2024,Journal Entry,LYFT RIDES CA,-22.55
+Checking Account - 1234,12/04/2024,Journal Entry,NYC-TAXI LONG ISLAND CITY,-35.46
+Checking Account - 1234,12/04/2024,Journal Entry,TAPAS BAR MEXICAN NYC,-26.75
+Checking Account - 1234,12/04/2024,Journal Entry,Chipotle Bar and Grille SF,-16.87
+Checking Account - 1234,12/04/2024,Journal Entry,Chipotle Bar and Grille SF,-16.87
+Checking Account - 1234,12/05/2024,Journal Entry,Uber Trip www.uber.com,-20.5
+Checking Account - 1234,12/05/2024,Journal Entry,NYC-TAXI LONG ISLAND CITY,-25.67
+Checking Account - 1234,12/06/2024,Journal Entry,LYFT RIDES CA,-50
+Checking Account - 1234,12/06/2024,Journal Entry,Starbucks Coffee SF Market St,-20
+Checking Account - 1234,12/06/2024,Journal Entry,LYFT RIDES CA,-50
+Checking Account - 1234,12/06/2024,Journal Entry,Starbucks Coffee SF Market St,-20
+Checking Account - 1234,12/07/2024,Journal Entry,Refund Amount,-250.65
+Checking Account - 1234,12/07/2024,Journal Entry,Gusto Payroll,"-5,776.56"

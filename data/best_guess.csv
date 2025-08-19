@@ -1,0 +1,20 @@
+missing_row_id,missing_desc,best_account_name,best_type,best_coa_description,similarity,difference
+0,LYFT RIDES CA,Travel:Taxis or shared rides,Expenses,Costs of using a ride-share service or taxi for business reasons,0.1867,0.8133
+1,STARBUCKS COFFEE SF MARKET ST,Supplies:Supplies & materials,Expenses,"Costs of supplies and materials other than office supplies, like coffee and first aid kits",0.1477,0.8523
+2,REFUND AMOUNT,Discounts given,Income,Money given to a customer as a refund or a discount,0.2261,0.7739
+3,GUSTO PAYROLL,Payroll wages and tax to pay,Other Current Liabilities,"Money owed to payroll tax agencies, employees for wages, or others for payroll liabilities",0.3335,0.6665
+4,AMERICAN AIRLINES TX,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+5,LYFT RIDES CA,Travel:Taxis or shared rides,Expenses,Costs of using a ride-share service or taxi for business reasons,0.1867,0.8133
+6,STARBUCKS COFFEE SF MARKET ST,Supplies:Supplies & materials,Expenses,"Costs of supplies and materials other than office supplies, like coffee and first aid kits",0.1477,0.8523
+7,UBER TRIP,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+8,CHIPOTLE BAR AND GRILLE SF,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+9,APLPAY STORAGE GB COSTS,Startup & organizational costs,Other Assets,Legal costs incurred when forming or reorganzing a company,0.1248,0.8752
+10,TAPAS BAR MEXICAN NYC,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+11,NYC TAXI LONG ISLAND CITY,Travel:Taxis or shared rides,Expenses,Costs of using a ride-share service or taxi for business reasons,0.1409,0.8591
+12,UBER TRIP,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+13,BLUE BOTTLE COFFEE NYC,Supplies:Supplies & materials,Expenses,"Costs of supplies and materials other than office supplies, like coffee and first aid kits",0.1477,0.8523
+14,AMAZON COM TX,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+15,TRADER JOE S SF,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+16,GUSTO PAYROLL,Payroll wages and tax to pay,Other Current Liabilities,"Money owed to payroll tax agencies, employees for wages, or others for payroll liabilities",0.3335,0.6665
+17,SOUTHWEST AIRLINES,Accounts Payable (A/P),Accounts payable (A/P),Money owed to vendors for products and services,0.0,1.0
+18,HILTON HOTELS NY,Travel:Hotels,Expenses,Costs of hotel and lodging,0.2895,0.7105
